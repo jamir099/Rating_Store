@@ -1,0 +1,54 @@
+.dashboard-container {
+    padding: 40px;
+    background-color: #f9fafc;
+  }
+  
+  .dashboard-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .dashboard-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  .dashboard-table th, .dashboard-table td {
+    border: 1px solid #ddd;
+    padding: 12px 15px;
+    text-align: left;
+  }
+  
+  .dashboard-table th {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .dashboard-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .dashboard-table tr:hover {
+    background-color: #ddd;
+  }
+
+  /* Existing styles */
+
+.home-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .home-button:hover {
+    background-color: #0056b3;
+  }
+  
+  
